@@ -48,22 +48,6 @@ https://public.tableau.com/app/profile/tirtha.ghosh5298/viz/SalesInsight_1775628
 
 ---
 
-# Dashboard Preview
-
-## Full Dashboard Overview
-![Dashboard Overview](overview.png)
-
-## Revenue Trend Analysis
-![Revenue Trend](revenue-trend-analysis.png)
-
-## Market-wise Revenue Analysis
-![Market Analysis](market-analysis.png)
-
-## Top Customers Analysis
-![Top Customers](top-customers.png)
-
----
-
 ## Business Problem
 Businesses often struggle to track sales performance across different markets and customers. This dashboard was created to simplify sales analysis and provide a centralized platform for monitoring key business metrics.
 
